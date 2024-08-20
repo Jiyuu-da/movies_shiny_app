@@ -23,7 +23,7 @@ This project demonstrates how to use Polars for data cleaning and exploration, a
 #### Key Steps
 
 - **Loading Data:** Import the dataset into Polars.
-- **Data Cleaning:** Handle missing values, correct data types, and remove duplicates.
+- **Data Cleaning:** Handle missing values, correct data types.
 - **Exploration:** Perform exploratory data analysis to summarize the data and identify key trends and patterns.
 
 

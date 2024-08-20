@@ -31,7 +31,7 @@ This project demonstrates how to use Polars for data cleaning and exploration, a
 
 #### Tools
 
-- **Shiny:** An R package for building interactive web applications.
+- **Shiny:** A Python and R package for building interactive web applications.
 
 #### Features
 

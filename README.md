@@ -25,3 +25,15 @@ This project demonstrates how to use Polars for data cleaning and exploration, a
 - **Loading Data:** Import the dataset into Polars.
 - **Data Cleaning:** Handle missing values, correct data types, and remove duplicates.
 - **Exploration:** Perform exploratory data analysis to summarize the data and identify key trends and patterns.
+
+
+### Shiny Application
+
+#### Tools
+
+- **Shiny:** An R package for building interactive web applications.
+
+#### Features
+
+- **Data Visualization:** Interactive charts and graphs to explore the dataset.
+- **User Interaction:** Allows users to filter and customize views to analyze different aspects of the data.

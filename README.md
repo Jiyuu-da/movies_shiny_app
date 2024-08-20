@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Exploration and Visualization with Polars and Shiny</title>
+</head>
 <body>
     <h1>Data Exploration and Visualization with Polars and Shiny</h1>
 
@@ -31,3 +38,4 @@
         <li><strong>Exploration:</strong> Perform exploratory data analysis to summarize the data and identify key trends and patterns.</li>
     </ul>
 </body>
+</html>
